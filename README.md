@@ -6,8 +6,6 @@ I love learning new things and constantly challenging myself. I believe in creat
 🚀 Main Skills
 HTML / CSS / JavaScript / TypeScript
 
-React / Vue.js
-
 Node.js / Express
 
 MySQL / MongoDB
